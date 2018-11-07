@@ -5,6 +5,17 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Track only uncompiled files
+*.js
+
+# ts definitions
+*.d.ts
+
+*.map
+
+# compiled dir
+api
+
 # Runtime data
 pids
 *.pid
