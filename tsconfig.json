@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "declaration": true,
-        "module": "commonjs",
+        "module": "system",
         "esModuleInterop": false,
         "target": "es6",
         "noImplicitAny": true,
